@@ -1,0 +1,3 @@
+[submodule "node_modules/airnet"]
+	path = node_modules/airnet
+	url = git@github.com:airnet/airnet-node.git

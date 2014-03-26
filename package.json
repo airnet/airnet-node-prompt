@@ -1,0 +1,17 @@
+{
+  "name": "airnet-node-test",
+  "version": "0.0.1",
+  "description": "A interactive test prompt for airnet-node.",
+  "main": "prompt.js",
+  "dependencies": {
+    "airnet-node": "*"
+  },
+  "scripts": {
+    "test": "node prompt.js"
+  },
+  "author": "Christian Stewart",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:airnet/airnet-node-prompt.git"
+  }
+}
